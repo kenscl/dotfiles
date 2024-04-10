@@ -1,2 +1,2 @@
+vim.api.nvim_set_option("clipboard","unnamed") 
 require("main")
-vim.cmd('set clipboard+=unnamed')
