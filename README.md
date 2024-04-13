@@ -4,7 +4,7 @@
 ## Programms 
 ### pacman 
 ```
-sudo pamcan -Sy hyprland waybar 
+sudo pamcan -Sy hyprland waybar ripgrep
 ```
 ### yay
 ```
