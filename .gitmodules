@@ -1,3 +1,6 @@
 [submodule "github-markdown-css"]
 	path = github-markdown-css
 	url = https://github.com/sindresorhus/github-markdown-css.git
+[submodule "nvim"]
+	path = nvim
+	url = https://github.com/kenscl/kickstart.nvim.git
